@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adridinan Najmi Faza</h1>
-<h3 align="center">Undergraduate Informatics Student at Universitas Jenderal Soedirman | Passionate about EdTech & Social Impact</h3>
+<h3 align="center">Undergraduate Informatics Student at Universitas Jenderal Soedirman                                     Passionate about EdTech & Social Impact</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adridinaan&label=Profile%20views&color=0e75b6&style=flat" alt="adridinaan" /> </p>
 
