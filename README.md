@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//adridinan-najmi-faza-80b88a301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/adridinan-najmi-faza-80b88a301/" height="30" width="40" /></a>
-<a href="https://instagram.com/@najmi.zaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@najmi.zaa" height="30" width="40" /></a>
+<a href="https://instagram.com/najmi.zaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najmi.zaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
